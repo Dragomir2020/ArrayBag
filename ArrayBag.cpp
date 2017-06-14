@@ -12,8 +12,8 @@
 ///////////////////////////////////////////////
 
 // NAME                   DATE           CHANGE
-// Dillon Dragomir        07-14-2017     Upload File
-// Andrew Piment          07-14-2017     Upload file
+// Dillon Dragomir        07-14-2017     Implemented Member Functions
+// Andrew Piment          07-14-2017     Implemented Member Functions
 
 ///////////////////////////////////////////////
 
