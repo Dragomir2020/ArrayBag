@@ -20,6 +20,7 @@
 ////////////////
 //DEPENDANCIES//
 ////////////////
+/*
  @file ArrayBag.cpp */
 
 #include <cstddef>
